@@ -12,3 +12,6 @@
 * [Removal Game](https://cses.fi/problemset/task/1097/)
 * [Two Sets II](https://cses.fi/problemset/task/1093/)
 * [Increasing Subsequence](https://cses.fi/problemset/task/1145/)
+* [BASIC DFS AND BFS]()
+* [Cyclic Component in a Graph](https://codeforces.com/contest/977/problem/E)
+* [Consecutive Subsequence](https://codeforces.com/contest/977/problem/F)
